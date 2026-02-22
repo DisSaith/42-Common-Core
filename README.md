@@ -1,8 +1,13 @@
 # 👨🏻‍💻 42 Common Core
 <ins>since</ins> : ***november 2025***   
 
+![meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluNzAzN3ZmanIwcmQ3aHY1OXB1bW5oNnIwb3RpdXczaTYzdndrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/34PROuA0RrlvZHbh8r/giphy.gif)
+
+
 ### Introduction
 This is my 42 common core repository. You will discover all my work so far.
+
+
 
 ### My Projects
 #### Milestone 00
@@ -20,6 +25,8 @@ This is my 42 common core repository. You will discover all my work so far.
 - minishell - Reproduce a simple bash shell
 #### Milestone 04
 not yet..
+
+
 
 ### My Grades
 - libft - ***125/100*** ✅
