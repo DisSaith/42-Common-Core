@@ -38,3 +38,7 @@ not yet..
 - so_long - ***125/100*** ✅ (validated 01/09/2026)
 - philosophers - ***100/100*** ✅ (validated 01/20/2026)
 - minishell - ***current project*** ⏳
+
+## Author
+Antoine COHAUT aka "DisSaith"  
+<ins> 42 login</ins> : acohaut
