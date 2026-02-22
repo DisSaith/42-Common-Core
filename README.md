@@ -5,13 +5,13 @@
 
 
 ### Introduction
-This is my 42 common core repository. You will discover all my work so far.
+This is my 42 common core repository. You will discover all my work so far.  
+After my selection as a new student was made official (in early October, a week after the piscine), I immediately started working on the first three common core projects (libft, ft_printf, and get_next_line). That's why I completed them quickly after the start of the school year in November.
 
 
-
-### My Projects
+### My Projects 
 #### Milestone 00
-- libft - Your very first own library coded in C
+- [libft](https://github.com/DisSaith/42-Common-Core/tree/main/00_libft) - Your very first own library coded in C
 #### Milestone 01
 - ft_printf - Recode the function printf()
 - get_next_line - Create a function that returns a line read from a file descriptor
@@ -29,9 +29,9 @@ not yet..
 
 
 ### My Grades
-- libft - ***125/100*** ✅
-- ft_printf - ***110/100*** ✅
-- get_next_line - ***125/100*** ✅
+- libft - ***125/100*** ✅ - validated 11/10/2025
+- ft_printf - ***110/100*** ✅ - validated 11/17/2025
+- get_next_line - ***125/100*** ✅ - validated 11/19/2025
 - Born2beroot - ***100/100*** ✅
 - push_swap - ***84/100*** ✅
 - pipex - ***100/100*** ✅
