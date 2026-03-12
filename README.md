@@ -22,9 +22,9 @@ After my selection as a new student was made official (in early October, a week 
 - [so_long](https://github.com/DisSaith/42-Common-Core/tree/main/02_so_long) - Create a small 2D game with minilibx
 #### Milestone 03
 - [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - Learn the basics of threading a process (dining philosophers problem)
-- minishell - Reproduce a simple bash shell
+- [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell
 #### Milestone 04
-not yet..
+- netpractice - introduction to networks, TCP/IP, subnet mask, router.. - ***current project*** ⏳
 
 
 
