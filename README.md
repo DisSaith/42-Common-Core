@@ -37,7 +37,8 @@ not yet..
 - pipex - ***100/100*** ✅ (validated 01/02/2026)
 - so_long - ***125/100*** ✅ (validated 01/09/2026)
 - philosophers - ***100/100*** ✅ (validated 01/20/2026)
-- minishell - ***current project*** ⏳
+- minishell - ***101/100*** ✅ (validated 03/10/2026)
+- netpractice - ***current project*** ⏳
 
 ## Author
 Antoine COHAUT aka "DisSaith"  
