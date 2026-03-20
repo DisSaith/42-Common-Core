@@ -39,7 +39,7 @@ After my selection as a new student was made official (in early October, a week 
 - so_long - ***125/100*** ✅ (validated 01/09/2026)
 - philosophers - ***100/100*** ✅ (validated 01/20/2026)
 - minishell - ***101/100*** ✅ (validated 03/10/2026)
-- netpractice ***100/100*** ✅ (validated 03/19/2026)
+- netpractice - ***100/100*** ✅ (validated 03/19/2026)
 - cpp 01 - ***current project*** ⏳
 
 ## Author
