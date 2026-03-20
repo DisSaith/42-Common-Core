@@ -24,8 +24,8 @@ After my selection as a new student was made official (in early October, a week 
 - [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - Learn the basics of threading a process (dining philosophers problem)
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell
 #### Milestone 04
-- netpractice - introduction to networks, TCP/IP, subnet mask, router.. - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 01 - introduction into C++ langage, first module - ***current project*** ⏳
+- netpractice - Introduction to networks, TCP/IP, subnet mask, router..
+- cpp 01 - First module of C++, introduction into C++ langage
 
 
 
