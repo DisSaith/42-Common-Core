@@ -25,7 +25,7 @@ After my selection as a new student was made official (in early October, a week 
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell
 #### Milestone 04
 - netpractice - Introduction to networks, TCP/IP, subnet mask, router..
-- cpp 01 - First module of C++, introduction into C++ langage
+- cpp 00 - First module of C++, introduction into C++ langage
 
 
 
@@ -40,7 +40,7 @@ After my selection as a new student was made official (in early October, a week 
 - philosophers - ***100/100*** ✅ (validated 01/20/2026)
 - minishell - ***101/100*** ✅ (validated 03/10/2026)
 - netpractice - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 01 - ***current project*** ⏳
+- cpp 00 - ***current project*** ⏳
 
 ## Author
 Antoine COHAUT aka "DisSaith"  
