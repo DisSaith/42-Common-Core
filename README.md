@@ -25,8 +25,12 @@ After my selection as a new student was made official (in early October, a week 
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell
 #### Milestone 04
 - netpractice - Introduction to networks, TCP/IP, subnet mask, router..
-- cpp 00 - First module of C++, introduction into C++ langage
-
+- [cpp 00](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_00) - First module of C++ : namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff 
+- [cpp 01](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_01) - Memory allocation, pointers to members, references and switch statements
+- [cpp 02](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_02) - Ad-hoc polymorphisme, operator overloading and the Orthodox Canonical class form
+- [cpp 03](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_03) - Inheritance
+- [cpp 04](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_04) - Subtype Polymorphism, Abstract Classes and Interfaces
+- cub3d - Our first RayCaster with miniLibX. Creation of a 3D video game (inspired by Wolfenstein 3D) 
 
 
 ### ⭐ Grades
@@ -40,7 +44,12 @@ After my selection as a new student was made official (in early October, a week 
 - philosophers - ***100/100*** ✅ (validated 01/20/2026)
 - minishell - ***101/100*** ✅ (validated 03/10/2026)
 - netpractice - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 00 - ***current project*** ⏳
+- cpp 00 - ***100/100*** ✅ (validated 04/07/2026)
+- cpp 01 - ***100/100*** ✅ (validated 04/10/2026)
+- cpp 02 - ***100/100*** ✅ (validated 04/21/2026)
+- cpp 03 - ***100/100*** ✅ (validated 04/23/2026)
+- cpp 04 - ***100/100*** ✅ (validated 04/28/2026)
+- cub3d - ***current project*** ⏳
 
 ## Author
 Antoine COHAUT aka "DisSaith"  
