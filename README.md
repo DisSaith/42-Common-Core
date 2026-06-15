@@ -30,8 +30,14 @@ After my selection as a new student was made official (in early October, a week 
 - [cpp 02](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_02) - Ad-hoc polymorphisme, operator overloading and the Orthodox Canonical class form
 - [cpp 03](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_03) - Inheritance
 - [cpp 04](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_04) - Subtype Polymorphism, Abstract Classes and Interfaces
-- cub3d - Our first RayCaster with miniLibX. Creation of a 3D video game (inspired by Wolfenstein 3D) 
-
+- [cub3d](https://github.com/DisSaith/42-Common-Core/tree/main/04_cub3d) - Our first RayCaster with miniLibX. Creation of a 3D video game (inspired by Wolfenstein 3D)
+#### Milestone 05   
+- [cpp 05](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_05) - Repetition and exceptions   
+- [cpp 06](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_06) - C++ casts   
+- [cpp 07](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_07) - C++ templates   
+- [cpp 08](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_08) - Templated containers, iterators, algorithms   
+- [cpp 09](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_09) - STL
+- inception - Virtualize several Docker images and increase our knowledge of system administration
 
 ### ⭐ Grades
 - libft - ***125/100*** ✅ (validated 11/10/2025)
@@ -49,7 +55,13 @@ After my selection as a new student was made official (in early October, a week 
 - cpp 02 - ***100/100*** ✅ (validated 04/21/2026)
 - cpp 03 - ***100/100*** ✅ (validated 04/23/2026)
 - cpp 04 - ***100/100*** ✅ (validated 04/28/2026)
-- cub3d - ***current project*** ⏳
+- cub3d - ***115/100*** ✅ (validated 05/21/2026)
+- cpp 05 - ***100/100*** ✅ (validated 05/27/2026)
+- cpp 06 - ***100/100*** ✅ (validated 06/03/2026)
+- cpp 07 - ***100/100*** ✅ (validated 06/05/2026)
+- cpp 08 - ***100/100*** ✅ (validated 06/09/2026)
+- cpp 09 - ***100/100*** ✅ (validated 06/12/2026)
+- inception - ***current project*** ⏳
 
 ## Author
 Antoine COHAUT aka "DisSaith"  
